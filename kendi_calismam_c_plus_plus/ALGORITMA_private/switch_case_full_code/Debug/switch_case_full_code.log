@@ -1,0 +1,9 @@
+﻿  switch_case_full_code.cpp
+C:\Users\dogus\OneDrive\Masaüstü\kendi_calismam_c_plus_plus\ALGORITMA_private\switch_case_full_code\switch_case_full_code.cpp(395,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\dogus\OneDrive\Masaüstü\kendi_calismam_c_plus_plus\ALGORITMA_private\switch_case_full_code\switch_case_full_code.cpp(404,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\dogus\OneDrive\Masaüstü\kendi_calismam_c_plus_plus\ALGORITMA_private\switch_case_full_code\switch_case_full_code.cpp(429,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\dogus\OneDrive\Masaüstü\kendi_calismam_c_plus_plus\ALGORITMA_private\switch_case_full_code\switch_case_full_code.cpp(431,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\dogus\OneDrive\Masaüstü\kendi_calismam_c_plus_plus\ALGORITMA_private\switch_case_full_code\switch_case_full_code.cpp(59,13): warning C4101: 'enb': unreferenced local variable
+C:\Users\dogus\OneDrive\Masaüstü\kendi_calismam_c_plus_plus\ALGORITMA_private\switch_case_full_code\switch_case_full_code.cpp(60,31): warning C4101: 'D': unreferenced local variable
+C:\Users\dogus\OneDrive\Masaüstü\kendi_calismam_c_plus_plus\ALGORITMA_private\switch_case_full_code\switch_case_full_code.cpp(59,10): warning C4101: 'n': unreferenced local variable
+  switch_case_full_code.vcxproj -> C:\Users\dogus\OneDrive\Masaüstü\kendi_calismam_c_plus_plus\ALGORITMA_private\Debug\switch_case_full_code.exe
